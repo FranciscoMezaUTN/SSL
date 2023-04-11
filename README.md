@@ -1,1 +1,1 @@
-# Repositorio para trabajos de la materia Sintaxis y Semántica de los Lenguajes de la comisión K2002 (a cargo del docente Eduardo Zuñiga) dictada en la Universidad Tecnológica Nacional, Facultad Regional de Buenos Aires.
+# Repositorio para trabajos de la materia Sintaxis y Semántica de los Lenguajes de la comisión K2002 (a cargo del docente Eduardo Zuñiga) dictada en la Universidad Tecnológica Nacional, Facultad Regional de Buenos Aires. Ciclo lectivo 2023. COMPILADOR: MSYS2 MSYS.
